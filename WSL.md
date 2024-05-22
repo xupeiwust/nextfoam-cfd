@@ -20,5 +20,5 @@ The default user id and password are
 
 ```
 id: nextfoam
-pw: nextfoam-cfd
+pw: nextfoamcfd
 ```
