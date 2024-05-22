@@ -71,7 +71,7 @@ vi /opt/OpenFOAM/NextFOAM-2405/etc/config.sh/scotch
 SCOTCH_VERSION=scotch_6.1.0
 ```
 
-Compile NextFOAM-2405. Set your number of cores at `WM_NCOMPPROCS`
+Compile NextFOAM-2405.
 
 **(Note)** If you install NextFOAM-2405 on Ubuntu 22.04, you should install `gcc-9` and `g++-9` and set `gcc-9` as the compiler. 
 
