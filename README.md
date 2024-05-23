@@ -41,7 +41,7 @@ cd openmpi-4.0.5
 ./configure --prefix=/opt/openmpi-4.0.5
 make -j 4 all
 make install
-echo 'export PATH=/opt/openmpi-4.0.5/bin:$PATH:' >> /etc/bash.bashrc
+echo 'export PATH=/opt/openmpi-4.0.5/bin:$PATH' >> /etc/bash.bashrc
 ```
 Clone `nextfoam-cfd` and move to the top directory
 
